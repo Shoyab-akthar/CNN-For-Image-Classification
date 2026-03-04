@@ -71,6 +71,6 @@ The CNN successfully learned image features and achieved competitive classificat
 ---
 
 ## Author
-Shazia Anwar (Shaz)  
+Shoyab Akthar  
 Aspiring AI and Machine Learning Developer  
 GitHub: https://github.com/Shoyab-akthar
